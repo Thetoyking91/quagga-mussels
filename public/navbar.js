@@ -4,7 +4,8 @@ import React from "react"
 export class Navbar extends React.Component {
     render() {
         return <nav className="topnav">
-            <Link href="/"><a className="text-xl text-blue-600">Template</a></Link>
+            <Link href="/"><a className="text-xl text-blue-600">Home</a></Link>
+            <Link href="/commercial"><a className="text-xl text-blue-600">Commercial</a></Link>
         </nav>
     }
 }
