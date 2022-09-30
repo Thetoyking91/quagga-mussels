@@ -6,7 +6,8 @@ import Template from '../public/Template'
 export default function Home() {
   return (
     <div>
-      <Template title="Home" headText="This website will be discussing quagga mussels." desc="Quagga Mussels" />
+      <Template title="Home" headText="This website will be discussing quagga mussels." desc="Quagga Mussels" >
+      </Template>
     </div>
   )
 }
