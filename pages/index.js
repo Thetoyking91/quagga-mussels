@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <div>
       <Template title="Home" headText="This website will be discussing quagga mussels." desc="Quagga Mussels" >
-        <p> BOO! </p>
+        <p> Quagga mussels are a very dangerous invasive species. </p>
       </Template>
     </div>
   )
