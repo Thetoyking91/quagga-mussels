@@ -16,7 +16,7 @@ export default function Home() {
       Quagga mussels can attach to soft things, while zebra mussels can only attach to hard surfaces.
     </li>
     <li>
-      Quagga mussels are freshwater mussels.
+      Quagga mussels are freshwater mussels, so they can only survive in freshwater and not the ocean.
     </li>
     </ul>
       </Template>
