@@ -12,6 +12,12 @@ export default function Home() {
     <li>
         Quagga mussels can produce 30,000-40,000 eggs in one breeding cycle, or 1 million per year!
     </li>
+    <li>
+      Quagga mussels can attach to soft things like sand, while zebra mussels can only attach to hard surfaces.
+    </li>
+    <li>
+      Quagga mussels are freshwater mussels, first becoming invasive in the drainage basin of the Dnieper river, mostly in Ukraine.
+    </li>
     </ul>
       </Template>
     </div>
