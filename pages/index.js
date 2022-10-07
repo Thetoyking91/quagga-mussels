@@ -8,7 +8,7 @@ export default function Home() {
     <div>
       <Template title="Home" headText="This website will be discussing quagga mussels." desc="Quagga Mussels" >
         <p> Quagga mussels are a very dangerous invasive species for the following reasons: </p>
-    <ul>
+    <ul className="text-left">
     <li>
         Quagga mussels can produce 30,000-40,000 eggs in one breeding cycle, or 1 million per year!
     </li>
