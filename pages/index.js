@@ -10,7 +10,7 @@ export default function Home() {
         <p> Quagga mussels are a very dangerous invasive species for the following reasons: </p>
     <ul>
     <li>
-        <p> Quagga mussels can produce 30,000-40,000 eggs in one breeding cycle, or 1 million per year! </p>
+        Quagga mussels can produce 30,000-40,000 eggs in one breeding cycle, or 1 million per year!
     </li>
     </ul>
       </Template>
