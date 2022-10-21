@@ -6,6 +6,7 @@ export class Navbar extends React.Component {
         return <nav className="topnav">
             <Link href="/"><a className="text-xl text-blue-600">Home</a></Link>
             <Link href="/commercial"><a className="text-xl text-blue-600">Commercial</a></Link>
+                <Link href="/pamphlet"><a className="text-xl text-blue-600">Pamphlet</a></Link>
         </nav>
     }
 }
