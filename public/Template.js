@@ -11,7 +11,7 @@ export default class Template extends Component {
         <Head>
           <title> { this.props.title } </title>
           <meta name="description" content={this.props.desc} />
-          <link rel="icon" href="/favicon.ico" />
+          <link rel="icon" href="/images.ico" />
         </Head>
 
         <Navbar />
