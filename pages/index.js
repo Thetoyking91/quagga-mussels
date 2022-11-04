@@ -6,7 +6,7 @@ import Template from '../public/Template'
 export default function Home() {
   return (
     <div>
-      <Template title="Home" headText="This website will be discussing quagga mussels." desc="Quagga Mussels" >
+      <Template title="Home | Quagga Mussel Awareness" headText="This website will be discussing quagga mussels." desc="Quagga Mussels" >
         <p> Quagga mussels are a very dangerous invasive species for the following reasons: </p>
     <ul className="text-left">
     <li>
