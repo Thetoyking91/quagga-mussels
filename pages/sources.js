@@ -5,7 +5,7 @@ import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 import { Navbar } from '../public/navbar'
 import Template from '../public/Template'
-import Link from 'next/link'
+import Link from 'next/link';
 export default function Home() {
   return (
     <div>
