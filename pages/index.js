@@ -6,7 +6,7 @@ import Template from '../public/Template'
 export default function Home() {
   return (
     <div>
-      <Template title="Home | Quagga Mussel Awareness" headText="TQuagga mussels are a very dangerous invasive species for the following reasons:" desc="Quagga Mussels" >
+      <Template title="Home | Quagga Mussel Awareness" headText="Quagga mussels are a very dangerous invasive species for the following reasons:" desc="Quagga Mussels" >
     <ul className="text-left">
     <li>
         Quagga mussels can produce 30,000-40,000 eggs in one breeding cycle, or 1 million per year!
