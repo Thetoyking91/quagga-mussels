@@ -7,6 +7,7 @@ export class Navbar extends React.Component {
             <Link href="/"><a className="text-xl text-blue-600">Home</a></Link>
             <Link href="/commercial"><a className="text-xl text-blue-600">Commercial</a></Link>
                 <Link href="/pamphlet"><a className="text-xl text-blue-600">Pamphlet</a></Link>
+                    <Link href="/sources"><a className="text-xl text-blue-600">Sources</a></Link>
         </nav>
     }
 }
