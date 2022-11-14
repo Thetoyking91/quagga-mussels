@@ -16,6 +16,7 @@ export default function Home() {
     </li>
     <li>
       <a href="https://extension.arizona.edu/sites/extension.arizona.edu/files/pubs/az1481e.pdf" passHref={true}> <p> U of A </p> </a>
+    </li>
     <li>
       <a href="https://extension.arizona.edu/sites/extension.arizona.edu/files/pubs/az1481e.pdf" passHref={true}> <p> U of A </p> </a>
     </li>
