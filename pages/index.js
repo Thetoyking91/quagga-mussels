@@ -17,6 +17,15 @@ export default function Home() {
     <li>
       Quagga mussels are freshwater mussels, so they can only survive in freshwater and not the ocean.
     </li>
+    <li>
+      Quagga mussels consume a lot of phytoplankton, causing a lot of competition for food.
+    </li>
+    <li>
+      Quagga mussels are transported via boats from the dneiper river.
+    </li>
+    <li>
+      Check your boat for quagga mussels to prevent them from spreading.
+    </li>
     </ul>
       </Template>
     </div>
