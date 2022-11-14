@@ -12,7 +12,7 @@ export default function Home() {
       <Template title="Credits | Quagga Mussel Awareness" headText="Sources:" desc="Quagga Mussels" >
     <ul className="text-left">
     <li>
-        <Link href="https://extension.arizona.edu/sites/extension.arizona.edu/files/pubs/az1481e.pdf" passHref={true}> <p> U of A </p> </Link>
+        <a href="https://extension.arizona.edu/sites/extension.arizona.edu/files/pubs/az1481e.pdf" passHref={true}> <p> U of A </p> </a>
     </li>
     <li>
       Quagga mussels can attach to soft things, while zebra mussels can only attach to hard surfaces.
