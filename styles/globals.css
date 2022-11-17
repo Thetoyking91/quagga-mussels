@@ -1,6 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
 html,
 body {
   padding: 0;
@@ -63,4 +64,8 @@ P {
 
 ul {
   list-style-type: square;
+}
+
+.gallery {
+  width: 30%
 }
