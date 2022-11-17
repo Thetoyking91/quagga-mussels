@@ -28,7 +28,9 @@ export default function Home() {
           </li>
         </ul>
         <div class="grid grid-cols-2 gap-4">
-
+          <Image src="/public/image1.jpg" />
+          <Image src="/public/image2.jpg" />
+          <Image src="/public/image3.jpg" />
         </div>
       </Template>
     </div>
