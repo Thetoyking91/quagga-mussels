@@ -27,7 +27,7 @@ export default function Home() {
             Check your boat for quagga mussels to prevent them from spreading.
           </li>
         </ul>
-        <div class="grid grid-cols-2 gap-4">
+        <div className="grid grid-cols-2 gap-4">
           <Image src="/public/image1.jpg" />
           <Image src="/public/image2.jpg" />
           <Image src="/public/image3.jpg" />
