@@ -27,9 +27,6 @@ export default function Home() {
       <a href="https://flbs.umt.edu/newflbs/media/1837/ais-lesson_4_invasive-mussel-life-cycle-poster.pdf" passHref={true}> <p> University of Montana </p> </a>
     </li>
     <li>
-      <a href="https://en.wikipedia.org/wiki/Quagga_mussel" passHref={true}> <p> Wikipedia </p> </a>
-    </li>
-    <li>
     <a href="https://www.biologyonline.com/dictionary/exotic-species" passHref={true}> <p> Biology online dictionary </p> </a>
     </li>
     </ul>
