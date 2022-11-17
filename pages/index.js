@@ -3,6 +3,7 @@ import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 import { Navbar } from '../public/navbar'
 import Template from '../public/Template'
+import image1 from '../public/image1.jpg'
 export default function Home() {
   return (
     <div>
@@ -28,9 +29,9 @@ export default function Home() {
           </li>
         </ul>
         <div className="grid grid-cols-2 gap-4">
-          <Image src="/public/image1.jpg" />
-          <Image src="/public/image2.jpg" />
-          <Image src="/public/image3.jpg" />
+          <Image src="/image1.jpg" />
+          <Image src="/image2.jpg" />
+          <Image src="/image3.jpg" />
         </div>
       </Template>
     </div>
