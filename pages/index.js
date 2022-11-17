@@ -7,26 +7,29 @@ export default function Home() {
   return (
     <div>
       <Template title="Home | Quagga Mussel Awareness" headText="Save the bay from the quagga mussel invasion today!" desc="Quagga Mussels" >
-    <ul className="text-left">
-    <li>
-        Quagga mussels can produce 30,000-40,000 eggs in one breeding cycle, or 1 million per year!
-    </li>
-    <li>
-      Quagga mussels can attach to soft things, while zebra mussels can only attach to hard surfaces.
-    </li>
-    <li>
-      Quagga mussels are freshwater mussels, so they can only survive in freshwater and not the ocean.
-    </li>
-    <li>
-      Quagga mussels consume a lot of phytoplankton, causing a lot of competition for food.
-    </li>
-    <li>
-      Quagga mussels are transported via boats from the dneiper river.
-    </li>
-    <li>
-      Check your boat for quagga mussels to prevent them from spreading.
-    </li>
-    </ul>
+        <ul className="text-left">
+          <li>
+            Quagga mussels can produce 30,000-40,000 eggs in one breeding cycle, or 1 million per year!
+          </li>
+          <li>
+            Quagga mussels can attach to soft things, while zebra mussels can only attach to hard surfaces.
+          </li>
+          <li>
+            Quagga mussels are freshwater mussels, so they can only survive in freshwater and not the ocean.
+          </li>
+          <li>
+            Quagga mussels consume a lot of phytoplankton, causing a lot of competition for food.
+          </li>
+          <li>
+            Quagga mussels are transported via boats from the dneiper river.
+          </li>
+          <li>
+            Check your boat for quagga mussels to prevent them from spreading.
+          </li>
+        </ul>
+        <div class="grid grid-cols-2 gap-4">
+
+        </div>
       </Template>
     </div>
   )
