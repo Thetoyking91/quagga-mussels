@@ -30,13 +30,12 @@ export default function Home() {
             Check your boat for quagga mussels to prevent them from spreading.
           </li>
         </ul>
-        
-      </Template>
-      <div className="gap-4">
+        <div className="gallerydiv">
           <Image src={image1} className="gallery" />
           <Image src={image2} className="gallery" />
           <Image src={image3} className="gallery" />
         </div>
+      </Template>
     </div>
   )
 }
