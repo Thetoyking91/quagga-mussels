@@ -4,6 +4,8 @@ import styles from '../styles/Home.module.css'
 import { Navbar } from '../public/navbar'
 import Template from '../public/Template'
 import image1 from '../public/image1.jpg'
+import image2 from '../public/image2.jpg'
+import image3 from '../public/image3.jpg'
 export default function Home() {
   return (
     <div>
@@ -29,9 +31,9 @@ export default function Home() {
           </li>
         </ul>
         <div className="grid grid-cols-2 gap-4">
-          <Image src="/image1.jpg" width="30%" className="gallery" />
-          <Image src="/image2.jpg" width="30%" className="gallery" />
-          <Image src="/image3.jpg" width="30%" className="gallery" />
+          <Image src={image1} width="30%" className="gallery" />
+          <Image src={image2} width="30%" className="gallery" />
+          <Image src={image3} width="30%" className="gallery" />
         </div>
       </Template>
     </div>
