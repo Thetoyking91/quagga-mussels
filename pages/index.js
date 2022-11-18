@@ -31,9 +31,9 @@ export default function Home() {
           </li>
         </ul>
         <div className="grid grid-cols-2 gap-4">
-          <Image src={image1} width="30%" className="gallery" />
-          <Image src={image2} width="30%" className="gallery" />
-          <Image src={image3} width="30%" className="gallery" />
+          <Image src={image1} className="gallery" />
+          <Image src={image2} className="gallery" />
+          <Image src={image3} className="gallery" />
         </div>
       </Template>
     </div>
