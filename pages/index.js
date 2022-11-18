@@ -24,7 +24,7 @@ export default function Home() {
             Quagga mussels consume a lot of phytoplankton, causing a lot of competition for food.
           </li>
           <li>
-            Quagga mussels are transported via boats from the dneiper river.
+            Quagga mussels are transported via boats from the Dneiper river.
           </li>
           <li>
             Check your boat for quagga mussels to prevent them from spreading.
